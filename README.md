@@ -1,2 +1,2 @@
-# MachineLearning
-Machine Learning
+# Machine Learning
+В данном репозитарии собраны все домашние задания, выполненные в рамках прохождения курса по Otus. Machine Learning.
