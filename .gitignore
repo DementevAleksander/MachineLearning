@@ -163,3 +163,9 @@ cython_debug/
 /hwprof-4/2008.csv
 /hwprof-4/dataset.csv
 /hwprof-4/archive.zip
+/hwprof-6/Archive/
+/hwprof-6/test_images/
+/hwprof-6/train_images/
+/hwprof-6/unet_model.pth
+/hwprof-6/train.csv
+/hwprof-6/sample_submission.csv
