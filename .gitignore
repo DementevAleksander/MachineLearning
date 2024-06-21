@@ -169,3 +169,6 @@ cython_debug/
 /hwprof-6/unet_model.pth
 /hwprof-6/train.csv
 /hwprof-6/sample_submission.csv
+/hwprof-8/in_domain_dev.csv
+/hwprof-8/in_domain_train.csv
+/hwprof-8/Archive
